@@ -1,0 +1,4 @@
+classes=80
+train=D:/Projects/AI360/CoCoPIE-ModelZoo-master/coco/train2017.txt
+valid=D:/Projects/AI360/CoCoPIE-ModelZoo-master/coco/val2017.txt
+names=D:/Projects/AI360/CoCoPIE-ModelZoo-master/YOLObile/data/coco.names
